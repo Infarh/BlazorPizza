@@ -11,6 +11,8 @@
   <ItemGroup>
     <ProjectReference Include="..\..\Common\BlazorPizza.Domain\BlazorPizza.Domain.csproj" />
     <ProjectReference Include="..\..\UI\BlazorPizza.BlazorUI\BlazorPizza.BlazorUI.csproj" />
+    <ProjectReference Include="..\BlazorPizza.DAL\BlazorPizza.DAL.csproj" />
+    <ProjectReference Include="..\BlazorPizza.Services\BlazorPizza.Services.csproj" />
   </ItemGroup>
 
 
